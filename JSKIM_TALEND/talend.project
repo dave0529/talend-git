@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Sn2G8ezPEe6MOb9YRJi7Yw" label="jskim-talend" description="" language="java" technicalLabel="JSKIM_TALEND" author="_Sn2G8uzPEe6MOb9YRJi7Yw" productVersion="Talend Real-time Big Data Platform-8.0.1.20231017_1026-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/dave0529/talend-git.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+    <migrationTask xmi:id="_SpXw8OzPEe6MOb9YRJi7Yw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_Sn2G8uzPEe6MOb9YRJi7Yw" login="jskim@cloocus.com" firstName="Jinsam" lastName="Kim" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
